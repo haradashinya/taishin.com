@@ -198,9 +198,9 @@ As a new WordPress user, you should go to <a href=\"%s\">your dashboard</a> to d
 								'post_date_gmt' => $now_gmt,
 								'post_content' => $first_page,
 								'post_excerpt' => '',
-								'post_title' => __( 'Sample Page' ),
+								'post_title' => __( 'Page' ),
 								/* translators: Default page slug */
-								'post_name' => __( 'sample-page' ),
+								'post_name' => __( 'page' ),
 								'post_modified' => $now,
 								'post_modified_gmt' => $now_gmt,
 								'guid' => $first_post_guid,
