@@ -1,0 +1,25 @@
+html .mceContentBody {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+li {
+    margin: 0 24px 0 0;
+}
+
+dl {
+    margin: 0 24px;
+}
+
+tr th {
+    text-align: right;
+}
+
+td {
+    padding: 6px 0 6px 10px;
+    text-align: right;
+}
+
+.wp-caption {
+    text-align: right;
+}
