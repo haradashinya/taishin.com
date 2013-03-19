@@ -603,12 +603,12 @@ body {
     line-height: 1.5;
     text-rendering: optimizeLegibility;
     color: #000000;
-    background-color: #f1efdc;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#f1efdc), to(#fbfaf4) );
     background-image: -webkit-linear-gradient(top, #f1efdc, #fbfaf4);
     background-image: -moz-linear-gradient(top, #f1efdc, #fbfaf4);
     background-image: -o-linear-gradient(top, #f1efdc, #fbfaf4);
     background-image: linear-gradient(to bottom, #f1efdc, #fbfaf4);
+    background: #ccc;
 }
 
 body, 
@@ -632,7 +632,7 @@ a:visited {
 }
 
 a:hover {
-    color: #09319b;
+    color: red;
     border-bottom: 1px solid #517df4;
 }
 
